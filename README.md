@@ -4,6 +4,8 @@ A small interactive React application built for the BeTechified Advanced Class a
 
 ## Description
 
+**Live demo:** https://sky5532.github.io/my-first-react-app/
+
 The app demonstrates functional components, JSX, state, events and conditional rendering. It includes:
 
 - A counter with Increase, Decrease and Reset buttons
